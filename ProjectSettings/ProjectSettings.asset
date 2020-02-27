@@ -169,7 +169,7 @@ PlayerSettings:
     iPhone: com.unity.arfoundation.samples
   buildNumber: {}
   AndroidBundleVersionCode: 1
-  AndroidMinSdkVersion: 24
+  AndroidMinSdkVersion: 16
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
   aotOptions: 
@@ -706,6 +706,10 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Build: 1
+    Collab: 0
+    ErrorHub: 0
+    Hub: 0
     UNet: 1
   luminIcon:
     m_Name: 
@@ -726,10 +730,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 036ca396-381b-4440-ba7d-099e7603bc05
   framebufferDepthMemorylessMode: 0
-  projectName: Template_3D
-  organizationId: 
+  projectName: AR Foundation Samples
+  organizationId: panasonic-corporation-vr-team
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
